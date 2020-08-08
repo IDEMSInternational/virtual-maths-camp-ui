@@ -6,7 +6,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./cards.component.scss']
 })
 export class CardsComponent implements OnInit {
-
+  card = {
+    "rank": "a",
+    "suit": "hearts",
+    "text": "Testing..."
+  };
   constructor() { }
 
   ngOnInit(): void {
