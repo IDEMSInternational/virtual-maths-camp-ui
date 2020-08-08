@@ -7,6 +7,7 @@ import { HomeComponent } from './home/home.component';
 import { FundraisingComponent } from './fundraising/fundraising.component';
 import { CardsComponent } from './cards/cards.component';
 import { ChatbotComponent } from './chatbot/chatbot.component';
+import { HeaderComponent } from './header/header.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { ChatbotComponent } from './chatbot/chatbot.component';
     HomeComponent,
     FundraisingComponent,
     CardsComponent,
-    ChatbotComponent
+    ChatbotComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
