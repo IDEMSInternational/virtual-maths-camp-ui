@@ -29,3 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Netlify Deply
 
 https://app.netlify.com/sites/virtualmathscamp/deploys?filter=master
+
+## Netlify Deply
+https://app.netlify.com/sites/virtualmathscamp/deploys?filter=master
