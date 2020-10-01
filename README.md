@@ -32,3 +32,6 @@ https://app.netlify.com/sites/virtualmathscamp/deploys?filter=master
 
 ## Netlify Deply
 https://app.netlify.com/sites/virtualmathscamp/deploys?filter=master
+
+## Netlify Deply
+https://app.netlify.com/sites/virtualmathscamp/deploys?filter=master
